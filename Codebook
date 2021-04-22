@@ -1,0 +1,15 @@
+Getting and Cleaning Data - Course Project
+
+
+The first two columns are Identifiers.
+
+    Subject: the ID of the Subject
+    Activity: the Name of the Activity performed by the subject when measurements were taken
+
+
+
+About variables:
+
+    x_train, y_train, x_test, y_test, subject_train and subject_test contain the data from the downloaded files.
+    x_data, y_data and subject_data merge the previous datasets.
+  
